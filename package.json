@@ -100,7 +100,8 @@
   },
   "files": [
     "/dash_core_components/*{.js,.map}",
-    "/lib/**"
+    "/lib/**",
+    "src/**"
   ],
   "peerDependencies": {
     "react": "^16.0.0",
